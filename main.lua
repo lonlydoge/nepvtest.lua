@@ -1,15 +1,8 @@
 --- Did actually rework heavily away from original neptunian, and the non-rework neptunian. --NoobyGames12
 --- Was supposed to be for the770zone, or VengefulProgram.
     game.StarterGui:SetCore("ChatMakeSystemMessage", {
-        Text = "Credits to Gelatek for helping me understand",
+        Text = "Neptuian V Executed.",
         Color = Color3.fromRGB(255, 10, 70),
-        TextSize = 18,
-        Font = Enum.Font.Ubuntu
-    });
-
-	    game.StarterGui:SetCore("ChatMakeSystemMessage", {
-        Text = "Made by lonlydoge#2006",
-        Color = Color3.fromRGB(0, 0, 255),
         TextSize = 18,
         Font = Enum.Font.Ubuntu
     });
